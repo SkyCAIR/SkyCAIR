@@ -1,14 +1,14 @@
 ## Downloading The Latest Version
 
-Latest release direct link: https://github.com/porteux/porteux/releases/latest
+Latest release direct link: https://github.com/SkyCAIR/SkyCAIR/releases/latest
 
 ## About
 
-PorteuX is a Linux distro based on Slackware, inspired by Slax and Porteus and available to the public for free. Its main goal is to be super fast, small, portable, modular and immutable (if the user wants so).
+SkyCAIR is a Linux distro based on Slackware, inspired by Slax and PorteuX and available to the public for free. Its main goal is to be super fast, small, portable, modular and immutable (if the user wants so).
 
 It's already pre-configured for basic usage, including lightweight applications for each of the 7 desktop environments available. No browser is included, but an app store is provided so you can download the most popular browsers, as well as Steam, VirtualBox, Nvidia drivers, Wine, office suite, multilib (32-bit compatibility), messengers, emulators, etc.
 
-Out of the box, PorteuX can open basically any multimedia file. Hardware acceleration is enabled by default for machines with Intel, AMD or Nvidia cards (for Nvidia cards it's required to download the Nvidia driver from the app store).
+Out of the box, SkyCAIR can open basically any multimedia file. Hardware acceleration is enabled by default for machines with Intel, AMD or Nvidia cards (for Nvidia cards it's required to download the Nvidia driver from the app store).
 
 ## How To Use
 
@@ -23,7 +23,7 @@ PorteuX is provided in 2 main versions based on Slackware 64-bit packages: stabl
 . MATE<br />
 . Xfce<br />
 
-PorteuX is a modular system so it doesn't require a normal setup/installer. You can simply copy the ISO content to your media storage and run from the `boot` folder either `porteux-installer-for-linux.run` or `porteux-installer-for-windows.exe` (depending on which system you're running) to make the unit bootable. It's that simple. Please avoid ISO installer applications like Rufus or Etcher because by default they set the bootable unit to be read-only. More details can be found in the [/boot/docs/install.txt](https://github.com/porteux/porteux/blob/main/boot/boot/docs/install.txt) file in the ISO.
+SKyCAIR is a modular system so it doesn't require a normal setup/installer. You can simply copy the ISO content to your media storage and run from the `boot` folder either `porteux-installer-for-linux.run` or `porteux-installer-for-windows.exe` (depending on which system you're running) to make the unit bootable. It's that simple. Please avoid ISO installer applications like Rufus or Etcher because by default they set the bootable unit to be read-only. More details can be found in the [/boot/docs/install.txt](https://github.com/porteux/porteux/blob/main/boot/boot/docs/install.txt) file in the ISO.
 
 To use PorteuX in a language other than English, download the multilanguage package and use the PorteuX Language Switcher application to choose the desired language.
 
